@@ -15,6 +15,7 @@ def binary_search(arr, low, high, x):
 
     else:
         return -1
+# test comment
 
 
 arr = [2, 3, 4, 10, 40]
